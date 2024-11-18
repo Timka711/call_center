@@ -8,6 +8,7 @@ public class DirectiryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DirectiryApplication.class, args);
+		System.out.println("test");
 	}
 
 }
